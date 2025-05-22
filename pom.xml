@@ -47,7 +47,7 @@
 	    </pluginRepository>
 	</pluginRepositories>
 
-		</pluginRepositories>
+		
 
 	<!-- ✅ ADDED build section to specify Java version and fix compile error -->
 	<build>
@@ -69,4 +69,3 @@
 
 
 	
-</project>
